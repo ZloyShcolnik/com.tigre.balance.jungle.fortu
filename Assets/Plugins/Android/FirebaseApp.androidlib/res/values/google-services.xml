@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">920441149519</string>
+  <string name="google_storage_bucket" translatable="false">tigre-balance-jungle.firebasestorage.app</string>
+  <string name="project_id" translatable="false">tigre-balance-jungle</string>
+  <string name="google_api_key" translatable="false">AIzaSyCIYj-oA6ucGIWI5FKATb7RHoAughJoGaE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIYj-oA6ucGIWI5FKATb7RHoAughJoGaE</string>
+  <string name="google_app_id" translatable="false">1:920441149519:android:e125fd157c068d5f77323a</string>
+</resources>

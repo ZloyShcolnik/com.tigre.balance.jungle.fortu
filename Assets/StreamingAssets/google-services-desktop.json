@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920441149519",
+    "project_id": "tigre-balance-jungle",
+    "storage_bucket": "tigre-balance-jungle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920441149519:android:e125fd157c068d5f77323a",
+        "android_client_info": {
+          "package_name": "com.tigre.balance.jungle.fortu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIYj-oA6ucGIWI5FKATb7RHoAughJoGaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
